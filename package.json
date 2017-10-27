@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ConnJones895/frontendworkshop/issues"
   },
-  "homepage": "https://github.com/ConnJones895/frontendworkshop#readme"
+  "homepage": "https://github.com/ConnJones895/frontendworkshop#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
